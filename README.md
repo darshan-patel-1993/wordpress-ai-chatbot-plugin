@@ -199,6 +199,7 @@ GPL v2 or later
 ## Author
 
 Darshan Patel
+
 Sr Website Developer
 
 Specializing in custom WordPress development, plugin development, API integrations, AI-powered solutions, and Laravel applications.
