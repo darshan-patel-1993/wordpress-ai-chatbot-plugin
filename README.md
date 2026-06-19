@@ -198,7 +198,7 @@ GPL v2 or later
 
 ## Author
 
-Darshan Patel
+Darshan Patel,
 
 Sr Website Developer
 
