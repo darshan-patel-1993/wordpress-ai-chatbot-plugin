@@ -1,0 +1,14 @@
+#wpai-chat-widget{
+position:fixed;
+right:20px;
+bottom:20px;
+width:350px;
+background:#fff;
+border:1px solid #ddd;
+z-index:9999;
+}
+
+.wpai-header{
+padding:15px;
+font-weight:bold;
+}
